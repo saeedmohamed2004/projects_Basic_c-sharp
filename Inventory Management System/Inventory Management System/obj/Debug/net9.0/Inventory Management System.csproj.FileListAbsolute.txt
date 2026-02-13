@@ -1,0 +1,14 @@
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\Inventory Management System.AssemblyInfoInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\Inventory Management System.AssemblyInfo.cs
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\Inventory Management System.csproj.CoreCompileInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\bin\Debug\net9.0\Inventory Management System.exe
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\bin\Debug\net9.0\Inventory Management System.deps.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\bin\Debug\net9.0\Inventory Management System.runtimeconfig.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\bin\Debug\net9.0\Inventory Management System.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\bin\Debug\net9.0\Inventory Management System.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\Inventory Management System.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\refint\Inventory Management System.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\Inventory Management System.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\Inventory Management System.genruntimeconfig.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Inventory Management System\Inventory Management System\obj\Debug\net9.0\ref\Inventory Management System.dll
