@@ -1,0 +1,14 @@
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\bin\Debug\net9.0\Quiz Game.exe
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\bin\Debug\net9.0\Quiz Game.deps.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\bin\Debug\net9.0\Quiz Game.runtimeconfig.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\bin\Debug\net9.0\Quiz Game.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\bin\Debug\net9.0\Quiz Game.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\Quiz Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\Quiz Game.AssemblyInfoInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\Quiz Game.AssemblyInfo.cs
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\Quiz Game.csproj.CoreCompileInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\Quiz Game.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\refint\Quiz Game.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\Quiz Game.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\Quiz Game.genruntimeconfig.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Quiz Game\Quiz Game\obj\Debug\net9.0\ref\Quiz Game.dll
