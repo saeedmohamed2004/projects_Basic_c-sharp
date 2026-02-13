@@ -1,0 +1,28 @@
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.exe
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.deps.json
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.runtimeconfig.json
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.dll
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.pdb
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.AssemblyInfoInputs.cache
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.AssemblyInfo.cs
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.csproj.CoreCompileInputs.cache
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.dll
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\refint\Task Tracker Projrct.dll
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.pdb
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.genruntimeconfig.cache
+D:\Desktop\تاسكات مبادره sql\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\ref\Task Tracker Projrct.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.exe
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.deps.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.runtimeconfig.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\bin\Debug\net9.0\Task Tracker Projrct.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.AssemblyInfoInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.AssemblyInfo.cs
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.csproj.CoreCompileInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\refint\Task Tracker Projrct.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\Task Tracker Projrct.genruntimeconfig.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Task Tracker Projrct\Task Tracker Projrct\obj\Debug\net9.0\ref\Task Tracker Projrct.dll
