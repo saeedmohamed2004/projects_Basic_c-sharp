@@ -1,0 +1,14 @@
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\bin\Debug\net9.0\Shopping System Project.exe
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\bin\Debug\net9.0\Shopping System Project.deps.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\bin\Debug\net9.0\Shopping System Project.runtimeconfig.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\bin\Debug\net9.0\Shopping System Project.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\bin\Debug\net9.0\Shopping System Project.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\Shopping System Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\Shopping System Project.AssemblyInfoInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\Shopping System Project.AssemblyInfo.cs
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\Shopping System Project.csproj.CoreCompileInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\Shopping System Project.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\refint\Shopping System Project.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\Shopping System Project.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\Shopping System Project.genruntimeconfig.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Shopping System Project\Shopping System Project\obj\Debug\net9.0\ref\Shopping System Project.dll
